@@ -1,0 +1,14 @@
+.input {
+    background: linear-gradient(180deg, rgba(191,191,191,1) 0%, rgba(124,124,124,1) 50%, rgba(115,115,115,1) 100%);
+    color: #ffffff;
+    width: 100%;
+    font-weight: 600;
+    font-size: 40px;
+    text-align: right;
+    overflow: auto;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    
+}

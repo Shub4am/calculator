@@ -1,0 +1,76 @@
+
+.button-wrapper {
+    width: 25%;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 500;
+    font-size: 3em;
+    background-color: #e0e1e6;
+    color: #0f0f0f;
+    outline: 1px solid #cfd0d6;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+     
+}
+
+.operator {
+    background: linear-gradient(90deg, rgba(117,202,255,1) 0%, rgba(15,117,180,1) 51%, rgba(117,202,255,1) 100%);
+    color: white;
+    
+}
+
+.clear-btn {
+    width: 25%;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: normal;
+    font-size: 3em;
+    background-color: #e0e1e6;
+    color: #0c9de0;
+    outline: 1px solid #cfd0d6;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+
+}
+
+.plus-minus {
+    width: 25%;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: normal;
+    font-size: 3em;
+    background-color: #e0e1e6;
+    color: #0c9de0;
+    outline: 1px solid #cfd0d6; 
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+
+}
+
+.backspace {
+    width: 25%;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: normal;
+    font-size: 3em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #e0e1e6;
+    color: #0c9de0;
+    /* outline: 1px solid #4dc6ff; */
+    outline: 1px solid #cfd0d6;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+
+}
